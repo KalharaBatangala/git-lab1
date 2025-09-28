@@ -1,11 +1,10 @@
-# KalharaBatangala Git Lab 1
+# Git Lab-1
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/KalharaBatangala/git-lab1?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/KalharaBatangala/git-lab1?style=flat-square)
-![GitHub license](https://img.shields.io/github/license/KalharaBatangala/git-lab1?style=flat-square)
 ![Jenkins](https://img.shields.io/badge/Jenkins-Pipeline%20as%20Code-blue?style=flat-square&logo=jenkins)
 ![Docker](https://img.shields.io/badge/Docker-Containerized-blue?style=flat-square&logo=docker)
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/KalharaBatangala/git-lab1/main.yml?style=flat-square)
+
 
 ## Overview
 
@@ -15,7 +14,7 @@ This repository serves as a hands-on learning project for integrating GitHub wit
 
 Key technologies:
 - **GitHub**: For version control and repository management.
-- **Jenkins**: Running in a Docker container for CI/CD automation.
+- **Jenkins**: CI/CD automation.
 - **Docker**: To containerize the Jenkins environment.
 
 
